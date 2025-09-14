@@ -82,8 +82,4 @@ El sistema valida los datos ingresados, asigna un **ID automático** a cada art�
 - IDE compatible con Swing (NetBeans, IntelliJ, Eclipse, etc.).  
 - Ejecución directa desde el método `main` del formulario `VistaIngresoArticulos`.  
 
----
-
-## 📸 Vista Previa
-*(Opcional: puedes agregar capturas de pantalla de la interfaz para hacerlo más visual en tu portafolio)*
 
